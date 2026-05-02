@@ -59,7 +59,7 @@ Passo 7 → Simulação de impacto das ações corretivas
 ## Principais Insights
 
 <img width="688" height="450" alt="analise-churn - imagem 1" src="https://github.com/user-attachments/assets/3e5ac9ae-62fe-4e08-9cae-24cd2a7c52de" />
-
+<br>
 A taxa de churn inicial era de **56.8%**, mais da metade dos clientes havia cancelado. A análise exploratória revelou três padrões com forte associação ao cancelamento:
 
 ---
