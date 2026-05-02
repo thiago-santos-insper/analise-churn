@@ -60,6 +60,7 @@ Passo 7 → Simulação de impacto das ações corretivas
 
 <img width="688" height="450" alt="analise-churn - imagem 1" src="https://github.com/user-attachments/assets/3e5ac9ae-62fe-4e08-9cae-24cd2a7c52de" />
 <br>
+
 A taxa de churn inicial era de **56.8%**, mais da metade dos clientes havia cancelado. A análise exploratória revelou três padrões com forte associação ao cancelamento:
 
 ---
@@ -68,6 +69,7 @@ A taxa de churn inicial era de **56.8%**, mais da metade dos clientes havia canc
 
 <img width="688" height="450" alt="analise-churn - imagem 2" src="https://github.com/user-attachments/assets/386fb3b7-60eb-4a47-a0ae-a3e3ed1e44dd" />
 <br>
+
 Clientes que ligaram **mais de 4 vezes** para o suporte apresentaram taxa de churn próxima a **100%**.
 
 Cada ligação adicional é um sinal de insatisfação acumulada: o problema não está sendo resolvido. O call center opera como um sintoma, não como uma solução.
@@ -80,6 +82,7 @@ Cada ligação adicional é um sinal de insatisfação acumulada: o problema nã
 
 <img width="688" height="450" alt="analise-churn - imagem 3" src="https://github.com/user-attachments/assets/a33a6cc7-e1ce-4716-9622-54adeb8f284a" />
 <br>
+
 Clientes com **mais de 20 dias de atraso** apresentaram altíssima probabilidade de cancelamento.
 
 Atrasos prolongados indicam dificuldade financeira ou baixo engajamento, duas situações que exigem intervenção antes que o cliente cancele.
@@ -92,6 +95,7 @@ Atrasos prolongados indicam dificuldade financeira ou baixo engajamento, duas si
 
 <img width="688" height="450" alt="analise-churn - imagem 4" src="https://github.com/user-attachments/assets/ac60258d-ff59-451e-841c-7e6249c848e3" />
 <br>
+
 Clientes com **contrato mensal** cancelam em taxa muito superior à de clientes com contratos anuais ou trimestrais.
 
 Contratos curtos geram baixo custo de saída: o cliente pode cancelar a qualquer momento, sem perda. Isso reduz o comprometimento e aumenta a sensibilidade a qualquer insatisfação pontual.
@@ -113,6 +117,7 @@ Aplicando os três filtros simultaneamente, como se a empresa tivesse resolvido 
 
 <img width="1094" height="450" alt="analise-churn - imagem 5" src="https://github.com/user-attachments/assets/87bad3f6-11b6-42ee-a6a3-11fae0c5f723" />
 <br>
+
 > **Nota metodológica:** Esta simulação assume que as condições identificadas podem ser eliminadas por ação da empresa. Na prática, parte dos casos pode ser estrutural. Os resultados reais dependerão da eficácia de execução de cada iniciativa.
 
 ---
