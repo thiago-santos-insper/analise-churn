@@ -91,7 +91,7 @@ Atrasos prolongados indicam dificuldade financeira ou baixo engajamento, duas si
 ### Insight 3: Contratos mensais
 
 <img width="688" height="450" alt="analise-churn - imagem 4" src="https://github.com/user-attachments/assets/ac60258d-ff59-451e-841c-7e6249c848e3" />
-
+  
 Clientes com **contrato mensal** cancelam em taxa muito superior à de clientes com contratos anuais ou trimestrais.
 
 Contratos curtos geram baixo custo de saída: o cliente pode cancelar a qualquer momento, sem perda. Isso reduz o comprometimento e aumenta a sensibilidade a qualquer insatisfação pontual.
